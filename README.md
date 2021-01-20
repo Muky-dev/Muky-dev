@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/Frameworks-Express-informational?style=flat&logo=express&logoColor=black&labelColor=white&color=purple)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&labelColor=white&color=purple)
 ![](https://img.shields.io/badge/Frameworks-React-informational?style=flat&logo=react&logoColor=blue&labelColor=white&color=purple)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=blue&labelColor=white&color=purple)
 
 # ‎ <img src="https://simpleicons.org/icons/github.svg" width="30px"> GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muky-dev&show_icons=true&theme=midnight-purple&hide=html)](https://github.com/anuraghazra/github-readme-stats)
