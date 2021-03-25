@@ -19,5 +19,5 @@
 # ‎ <img src="https://simpleicons.org/icons/github.svg" width="30px"> GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muky-dev&show_icons=true&theme=midnight-purple&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Muky-dev&show_icons=true&theme=midnight-purple&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Muky-dev&repo=password_generator&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Muky-dev&repo=screen_sharing_python&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Muky-dev&repo=Mybrary&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Muky-dev&repo=to-do-list&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
