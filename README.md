@@ -19,19 +19,13 @@
 ## Seja bem-vindo!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## Sobre mim
+### Sobre mim
 
-### Profissional
 - Desenvolvedor Full Stack (atualmente com foco em Node js) ⚙️
 - Estou no 2 semestre de Análise e Desenvolvimento de Sistemas na FIAP 🧑‍🎓
 - 2 anos de experiência em TI na área de suporte 🤓
 
-### Pessoal
-- Amante de gatos 😻
-- Café e código são minha paixão ☕ ❤️ 💻
-- Gosto de tocar violão/guitarra e também cantar 🎵
-
-### Hard Skills
+## Hard Skills
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
