@@ -22,7 +22,7 @@
 ### Sobre mim
 
 - Desenvolvedor Full Stack (atualmente com foco em Node js) ⚙️
-- Estou no 2 semestre de Análise e Desenvolvimento de Sistemas na FIAP 🧑‍🎓
+- Estou no 2º ano de Análise e Desenvolvimento de Sistemas na FIAP 🧑‍🎓
 - 2 anos de experiência em TI na área de suporte 🤓
 
 ## Hard Skills
