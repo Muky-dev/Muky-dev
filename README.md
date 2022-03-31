@@ -19,12 +19,13 @@
 ## Seja bem-vindo!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### Sobre mim
+### About me
 
-- Desenvolvedor Full Stack ⚙️
-- Estou no 2º ano de Análise e Desenvolvimento de Sistemas na FIAP 🧑‍🎓
-- 2 anos de experiência em TI na área de suporte 🤓
-- 7 meses de experiência como desenvolvedor JS/TS Full Stack 
+- Brazilian developer 🇧🇷
+- Full Stack developer ⚙️
+- I am in the 2nd year of Systems Analysis and Development at FIAP 🧑‍🎓
+- 2 years of IT experience in the support area 🤓
+- 7 months of experience as a JS/TS Full Stack developer 💻
 
 ## Hard Skills
 <p align="center">
@@ -46,10 +47,6 @@
 ## Contact :iphone:
 
 <p align="center">
-    <a href="https://github.com/Muky-dev">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Muky-dev">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:ti.gabrielfini@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ti.gabrielfini@gmail.com">
     </a>
