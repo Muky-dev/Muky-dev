@@ -22,9 +22,9 @@
 ### About me
 
 - Brazilian Full Stack developer 🇧🇷
-- I am in the 2nd year of Systems Analysis and Development at FIAP 🧑‍🎓
-- 2 years of IT experience in the support area 🤓
-- 1+ year of experience as a Full Stack JS/TS developer 💻
+- Graduated in Systems Analysis and Development at FIAP 🧑‍🎓
+- 2 years of IT experience in support area 🤓
+- 2+ year of experience as a Full Stack developer 💻
 
 ## Hard Skills
 <p align="center">
