@@ -24,7 +24,7 @@
 - Brazilian Full Stack developer 🇧🇷
 - Graduated in Systems Analysis and Development at FIAP 🧑‍🎓
 - 2 years of IT experience in support area 🤓
-- 2+ year of experience as a Full Stack developer 💻
+- 2+ year of experience as Full Stack developer 💻
 
 ## Hard Skills
 <p align="center">
@@ -50,7 +50,7 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ti.gabrielfini@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/jovem-dev">
+    <a href="https://www.linkedin.com/in/fini-dev">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/jovem-dev/">
     </a>
 </p>
