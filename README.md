@@ -21,10 +21,12 @@
 
 ### About me
 
-- Brazilian Full Stack developer 🇧🇷
-- Graduated in Systems Analysis and Development at FIAP 🧑‍🎓
-- 2 years of IT experience in support area 🤓
-- 2+ year of experience as Full Stack developer 💻
+- 🇧🇷 Full Stack Developer
+- 💻 5+ years of experience in software development
+  - 🚀 3+ years as a Full Stack Developer
+  - 🛠️ 2+ years specializing as a Back-End Developer
+- 🤓 2 years in IT support, working with servers and networks during my early career
+- 🔍 Security research and pentesting enthusiast
 
 ## Hard Skills
 <p align="center">
